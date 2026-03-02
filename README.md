@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on integrating AI workflows into the DEVOPS space.<br>🌱 I’m currently learning LLM agentic workflows.
+🔭 I’m currently working on integrating AI workflows into the DEVOPS space.<br>🌱 I’m developing LLM agentic workflows.
 
 
 # 💻 Tech Stack:
